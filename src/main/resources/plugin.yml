@@ -1,0 +1,6 @@
+name: LootArrows
+version: ${project.version}
+main: me.xemor.lootarrows.LootArrows
+api-version: 1.16
+authors: [Xemor_]
+description: You can now loot arrows from corpses
